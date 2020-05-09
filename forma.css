@@ -1,0 +1,57 @@
+body {
+	margin: auto 0;
+	font-family: arial;
+}
+
+/* navbar */
+.navbar {
+	box-shadow: 3px 3px #888888;
+	border-bottom-left-radius: 25px;
+	border-bottom-right-radius: 25px;
+}
+
+
+/* navbar logo */
+.navbar-brand {
+	background-color: #1f8fcc;
+	border-radius: 20px;
+}
+
+/* pozicioniranje */
+.form {
+	margin-top: 15%;
+}
+
+/* dugme */
+.btn {
+	border-radius: 300px;
+	resize: 200px;
+	background-color: #1f8fcc;
+	transition: 0.5s all;
+}
+
+
+.btn:hover {
+	background-color: #156794;
+	transform: scale(1.1);
+}
+
+/* forma */
+.form-group {
+	margin-left: 25%;
+	margin-right: 25%;
+	transition: 1s all;
+}
+
+/* animacija forme */
+.form-group:hover {
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+/* radius forme */
+.form-control {
+	border-radius: 300px;
+
+}
+

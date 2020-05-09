@@ -1,0 +1,25 @@
+body {
+	margin: auto 0;
+	font-family: arial;
+}
+
+/* navbar */
+.navbar {
+	box-shadow: 3px 3px #888888;
+	border-bottom-left-radius: 25px;
+	border-bottom-right-radius: 25px;
+}
+
+
+/* navbar logo */
+.navbar-brand {
+	background-color: #1f8fcc;
+	border-radius: 20px;
+}
+
+
+/* tabela */
+.table {
+	margin-top: 5%;
+	box-shadow: 2px 2px #888888;
+}

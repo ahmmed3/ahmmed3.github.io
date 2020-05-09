@@ -1,0 +1,32 @@
+body {
+	margin: auto 0;
+	font-family: arial;
+}
+
+/* navbar */
+.navbar {
+	box-shadow: 3px 3px  #888888;
+	border-bottom-left-radius: 25px;
+	border-bottom-right-radius: 25px;
+}
+
+
+/* navbar logo */
+.navbar-brand {
+	background-color: #1f8fcc;
+	border-radius: 20px;
+}
+
+
+/* lista */
+.list-group {
+	margin-top: 5%;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+
+/* strong klasa */
+.strong {
+	font-size: 2rem;
+}
